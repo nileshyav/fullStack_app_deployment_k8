@@ -43,7 +43,7 @@ spec:
 apiVersion: v1
 kind: Service
 metadata:
-  name: web-wervice
+  name: web-service
 spec:
   type: NodePort
   selector:
